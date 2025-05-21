@@ -1,4 +1,18 @@
-# Como preparar aji de pollo
+# Comdandos Git
+
+0. Usar un git status
+
+```
+git status
+```
+FLUJO ACP
+1. add => Confirmar los cambios
+
+```
+git add "tu_archivo" (el archivo modificado)
+```
+
+## Como preparar aji de pollo
 ## Aqui estan los ingredientes
 
 1. 1 pechuga de pollo entera
