@@ -9,9 +9,14 @@ FLUJO ACP
 1. add => Confirmar los cambios
 
 ```
-git add "tu_archivo" (el archivo modificado)
+git add "tu_archivo" (el archivo modificado - un archivo)
+
+git add . (todos los archivos)
 ```
 
+2. commit => Comentar los cambios
+
+3. push => subir los cambios al repositorio remoto (GITHUB)
 ## Como preparar aji de pollo
 ## Aqui estan los ingredientes
 
